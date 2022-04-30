@@ -6,7 +6,7 @@ DIR_RUNTIME="/usr/bin"
 DIR_TMP="$(mktemp -d)"
 
 UUID=5fd9bffe-aa32-4d70-810b-bb9fbf4c035e
-WSPATH=/vless
+WSPATH=/5fd9bffe-aa32-4d70-810b-bb9fbf4c035e-vless
 PORT=80
 
 # Write V2Ray configuration
